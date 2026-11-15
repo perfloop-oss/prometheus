@@ -39,7 +39,7 @@ The features that distinguish Prometheus from other metrics and monitoring syste
 
 ## Install
 
-There are various ways to install Prometheus.
+There are several ways to install Prometheus.
 
 ### Precompiled binaries
 
